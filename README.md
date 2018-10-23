@@ -1,4 +1,4 @@
-#NEFUS Workshop: Datagrundlag for systematisk review.
+# NEFUS Workshop: Datagrundlag for systematisk review.
 
 NEFUS Konference 15. - 16. november 2018, oplæg om datagrundlag for systematisk review
 "Hvordan klargøres datasæt til brug i forbindelse med systematisk review", 15. november 2018, kl. 16:15-17.15, Klarskovgaard.
