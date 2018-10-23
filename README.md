@@ -10,9 +10,9 @@ Det er nødvendigt at medbringe følgende på workshoppen:
 3) Cookbook fra denne side.
 
 # Program:
-10 min: intro til emne, opgave, ide og github sitet ( v. Jeanette )
-45 min: workshop ( v. Asger )
- 5 min: afslutning (v. Jeanette)
+* 10 min: intro til emne, opgave, ide og github sitet ( v. Jeanette )
+* 45 min: workshop ( v. Asger )
+* 5 min: afslutning (v. Jeanette)
                           
 Yderligere informationer om programmet plus eventuelle opdateringer kommer her på siden.
 
