@@ -47,3 +47,5 @@ Vi flytter derfor kolonnen indeholdende DOI i arket med Scopus-data til kolonne 
 4. Skriv herefter:
 ![LOPSLAG](/billeder/1.jpg)
 5. Tryk på 'OK'
+6. Træk herefter i nederste venstre hjørne af cellen indeholdende vores formel. Udvid indtil alle værdier i arket er sammenlignet (Se billede herunder).
+![LOPSLAG](/billeder/2.jpg)
