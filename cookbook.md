@@ -71,6 +71,7 @@ En fed måde at lave et simpelt diagram over fællesmængden og differencen i et
 Hvis du er god til grafik, kan du bruge de data vi har udtrukket til at lave et fedt Venn diagram. Det er dog muligt at snyde lidt og enten bruge GeneVenn (http://genevenn.sourceforge.net/vennresults.php) eller BioVenn (http://www.biovenn.nl/index.php)
 
 **Resultaterne herunder.**
+
 ![VENN](/billeder/venn.png)
 ![VENN2](/billeder/venn2.png)
 
