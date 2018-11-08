@@ -77,4 +77,4 @@ Hvis du er god til grafik, kan du bruge de data vi har udtrukket til at lave et 
 
 **God fornøjelse med dit videre dataarbejde**
 Herunder link til mit datasæt, hvis du sidder fast eller vil sammenligne med dine egne resultater!
-Link: 
+**Link:** https://github.com/enemydown-dk/Excel_Carpentry/raw/master/billeder/results.zip 
