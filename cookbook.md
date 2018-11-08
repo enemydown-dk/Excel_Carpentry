@@ -45,16 +45,23 @@ Vi flytter derfor kolonnen indeholdende DOI i arket med Scopus-data til kolonne 
 2. I formellinjen skriver du =LOPSLAG(
 3. Herefter kan du med fordel trykke på formelknappen (Fx) for at åbne formelvinduet.
 4. Skriv herefter:
+
 ![LOPSLAG](/billeder/1.jpg)
+
 5. Tryk på 'OK'
 6. Træk herefter i nederste venstre hjørne af cellen indeholdende vores formel. Udvid indtil alle værdier i arket er sammenlignet (Se billede herunder).
+
 ![LOPSLAG](/billeder/2.jpg)
+
 De celler som får en værdi, dvs. ikke er #I/T (Ikke tilgængelig) er de artikler som findes i begge datasæt, dvs. fællesmængden.
 Vi kan stille skarpt på disse ved, at vælge et filter som fravælger #I/T (se herunder).
+
 ![FILTER](/billeder/3.jpg)
 
 Hvis vi modset vil se, hvilke artikler som er repræsenteret i WoS-datasættet, men ikke i Scopus sætter vi samme filter på, men fravælger alle undtagen #I/T.
 **Bemærk**, dette er ikke differencen. Vi har ved denne øvelse kun den ene del af differencen, da der kan være artikler i Scopus som ikke er i WoS-datasættet. Vi er derfor nød til at lave den omvendte øvelse fra Scopus -> WoS for at finde disse.
 Gentag derfor ovenstående øvelse, men omvendt (se billede).
+
 ![LOPSLAG](/billeder/4.jpg)
+
 Når du har fællesmængden og de to dele af differencen er du klar til at lave visualiseringen herunder.
