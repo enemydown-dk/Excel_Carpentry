@@ -40,9 +40,10 @@ Vi er nu klar til at begynde vores arbejde mod at afgøre fællesmængde og diff
 På grund af begrænsninger i Excel, er vi dog nød til at foretage en lille ændring i vores ene Excelark - dette skal altid gøres i det Excelark vi checker værdier op imod. Her skal checkværdien altid placeres i kolonne A (ellers virker det ikke).
 Vi flytter derfor kolonnen indeholdende DOI i arket med Scopus-data til kolonne A (for nemhedens skyld gør vi det samme med WoS-dataen. Dette er ikke pækrævet, men gør arbejdet nemmere.Følg nu vejledningen i forhold til LOPSLAG i Excel.
 
-Find fællesmængden (A ∩ B) imellem WoS- og Scopusdatasæt:
+**Find fællesmængden (A ∩ B) imellem WoS- og Scopusdatasæt:**
 1. Sæt en kolonne ind på position B i WoS-arket.
 2. I formellinjen skriver du =LOPSLAG(
 3. Herefter kan du med fordel trykke på formelknappen (Fx) for at åbne formelvinduet.
 4. Skriv herefter:
 ![LOPSLAG](/billeder/1.jpg)
+5. Tryk på 'OK'
