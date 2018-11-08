@@ -49,3 +49,6 @@ Vi flytter derfor kolonnen indeholdende DOI i arket med Scopus-data til kolonne 
 5. Tryk på 'OK'
 6. Træk herefter i nederste venstre hjørne af cellen indeholdende vores formel. Udvid indtil alle værdier i arket er sammenlignet (Se billede herunder).
 ![LOPSLAG](/billeder/2.jpg)
+De celler som får en værdi, dvs. ikke er #I/T (Ikke tilgængelig) er de artikler som findes i begge datasæt, dvs. fællesmængden.
+Vi kan stille skarpt på disse ved, at vælge et filter som fravælger #I/T (se herunder).
+![FILTER](/billeder/2.jpg)
