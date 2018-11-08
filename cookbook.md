@@ -9,7 +9,7 @@ Trin 1: Sammenfald mellem de to datasæt
 Trin 2: Differencen mellem de to datasæt
 Trin 3: Visualisering ( VENN Diagram illustration )
 
-De udleverede datasæt indeholder 1000 poster fra Scopus og Web of Science, vi kender på nuværende tidspunkt ikke til eventuelle sammenfald og differencer mellem de to datasæt, og såfremt datasættene inspiceres vil det også være tydeligt, at formatet ikke er ens. Disse ting ønsker vi at ændre.
+De udleverede datasæt indeholder ca. 2000 poster fra Scopus og Web of Science, vi kender på nuværende tidspunkt ikke til eventuelle sammenfald og differencer mellem de to datasæt, og såfremt datasættene inspiceres vil det også være tydeligt, at formatet ikke er ens. Disse ting ønsker vi at ændre.
 
 <h2>EXCEL (LOPSLAG) SÅDAN GØR DU!</h2>
 Vi har anvendt Microsoft Excel med funktionen LOPSLAG til at samle vores data i et samlet regneark. Der er andre programmer og andre måder at opbevare data på (database). Vi viser dog alligevel her, hvordan du hurtigt kan kombinere data via en nøgle (DOI).
