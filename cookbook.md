@@ -1,5 +1,7 @@
 <h1>Cookbook: Excel Carpentry for systematiske reviews.</h1>
 
+**BEMÆRK!** Du kan åbne billeder med kommandoer i fuld størrelse, ved at klikke højre museknap og vælge 'Vis billede'. Så er det lettere at læse!
+
 <h2>Formål:</h2>
 Formålet med denne cookbok, er at du som læser skal kunne foretage simpel datamanipulation, for derigennem at sammenkøre store datasæt til brug i forbindelse med systematiske reviews, og lave en simpel visualisering af dette.
 
