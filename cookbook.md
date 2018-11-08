@@ -51,4 +51,7 @@ Vi flytter derfor kolonnen indeholdende DOI i arket med Scopus-data til kolonne 
 ![LOPSLAG](/billeder/2.jpg)
 De celler som får en værdi, dvs. ikke er #I/T (Ikke tilgængelig) er de artikler som findes i begge datasæt, dvs. fællesmængden.
 Vi kan stille skarpt på disse ved, at vælge et filter som fravælger #I/T (se herunder).
-![FILTER](/billeder/2.jpg)
+![FILTER](/billeder/3.jpg)
+
+Hvis vi modset vil se, hvilke artikler som er repræsenteret i WoS-datasættet, men ikke i Scopus sætter vi samme filter på, men fravælger alle undtagen #I/T.
+**Bemærk, dette er ikke differencen. Vi har ved denne øvelse kun den ene del af differencen, da der kan være artikler i Scopus som ikke er i WoS-datasættet. Vi er derfor nød til at lave den omvendte øvelse fra Scopus -> WoS for at finde disse.
