@@ -55,3 +55,5 @@ Vi kan stille skarpt på disse ved, at vælge et filter som fravælger #I/T (se 
 
 Hvis vi modset vil se, hvilke artikler som er repræsenteret i WoS-datasættet, men ikke i Scopus sætter vi samme filter på, men fravælger alle undtagen #I/T.
 **Bemærk**, dette er ikke differencen. Vi har ved denne øvelse kun den ene del af differencen, da der kan være artikler i Scopus som ikke er i WoS-datasættet. Vi er derfor nød til at lave den omvendte øvelse fra Scopus -> WoS for at finde disse.
+Gentag derfor ovenstående øvelse, men omvendt.
+Når du har fællesmængden og de to dele af differencen er du klar til at lave visualiseringen herunder.
